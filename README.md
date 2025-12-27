@@ -28,7 +28,7 @@ Though more testing needs to be done on my part.
 1. Copy the plugin to your Pwnagotchi custom plugins directory:
 
    ```bash
-   sudo wget https://github.com/BraedenP232/HAPwn/hapwn.py
+   sudo wget https://github.com/BraedenP232/HAPwn/blob/main/hapwn.py
    sudo cp hapwn.py /usr/local/share/pwnagotchi/custom-plugins/
    ```
 
